@@ -1,6 +1,6 @@
 # Rough
 
-Rough is RPC for Rails.
+Rough is RPC for Rails!
 
 ## Usage
 
